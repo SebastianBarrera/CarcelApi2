@@ -1,0 +1,156 @@
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\ApplicationInsights.config
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\csc.exe
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\vbc.exe
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\CarcelAPI.dll.config
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\CarcelAPI.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\CarcelAPI.pdb
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\EntityFramework.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\EntityFramework.SqlServer.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.AI.Web.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.ApplicationInsights.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Newtonsoft.Json.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\System.Net.Http.Formatting.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\System.Web.Http.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\System.Web.Http.WebHost.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\EntityFramework.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\EntityFramework.SqlServer.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.AI.Web.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.ApplicationInsights.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\Newtonsoft.Json.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\System.Net.Http.Formatting.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\System.Web.Http.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\System.Web.Http.WebHost.xml
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\es\System.Web.Http.resources.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\obj\Debug\CarcelAPI.csprojResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\obj\Debug\CarcelAPI.dll
+c:\users\duoc\documents\visual studio 2015\Projects\CarcelAPI\CarcelAPI\obj\Debug\CarcelAPI.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\ApplicationInsights.config
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\csc.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\vbc.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\CarcelAPI.dll.config
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\CarcelAPI.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\CarcelAPI.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\EntityFramework.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\System.Web.Http.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\EntityFramework.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\System.Web.Http.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\obj\Debug\CarcelAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\obj\Debug\CarcelAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\obj\Debug\CarcelAPI.dll
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\obj\Debug\CarcelAPI.pdb
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\obj\Debug\CarcelAPI.Migrations.primeraMigracion.resources
+C:\Users\Sebastian\Desktop\Nueva carpeta\CarcelAPI\CarcelAPI\obj\Debug\CarcelAPI.csproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\ApplicationInsights.config
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\csc.exe
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\vbc.exe
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\CarcelAPI.dll.config
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\CarcelAPI.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\CarcelAPI.pdb
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\EntityFramework.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\System.Web.Cors.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\System.Web.Http.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\EntityFramework.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\System.Web.Http.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\obj\Debug\CarcelAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\obj\Debug\CarcelAPI.dll
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\obj\Debug\CarcelAPI.pdb
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\obj\Debug\CarcelAPI.Migrations.oracle.resources
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\obj\Debug\CarcelAPI.csproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\obj\Debug\CarcelAPI.Migrations.UsuarioAgregado.resources
+C:\Users\Sebastian\Desktop\ProyectoCarcelAPI-master\ProyectoCarcelAPI-master\CarcelAPI\obj\Debug\CarcelAPI.csprojResolveAssemblyReference.cache
